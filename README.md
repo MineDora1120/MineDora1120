@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MineDora1120의 Github Status](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![MineDora1120의 Github Status](https://github-readme-stats.vercel.app/api?username=MineDora1120&show_icons=true&theme=radical)
